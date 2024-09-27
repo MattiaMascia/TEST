@@ -1,3 +1,4 @@
+#ESERCIZIO NUMERO 10
 import os
 import warnings
 
